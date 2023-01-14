@@ -1,0 +1,36 @@
+SUBLIME-BEST Setting FOR LARAVEL & OTHERs
+
+1. Go to the Preferences->setting tab and add the few line of code.
+	"font_size": 14,
+	"line_padding_top": 12,
+	"save_on_focus_lost": true
+	
+2. Press the CTRL+SHIFT+P and search the Install Package Control & Hit enter.
+
+3. Press again CTRL+SHIFT+P and search the Package Control: Install Package & Hit enter.
+
+4. Repeat the number 2 setting and install these package:
+	(a) Emmet.
+	(b) SideBarEnhancements
+	(c) All autocomplete
+	(d) Blade Snippets
+	(e) Blade Highlighter
+	(f) Blade Spacer
+	(g) Blade autocomplete
+	(h) Jquery
+	(i) BracketHighlighter
+	(j) PHP Compainion
+	(k) SublimeLinter
+	(l) SublimeCodeIntel
+	(m) Laravel GOTO
+	(n) Laravel Migration Snippets
+	(o) Laravel 5 Artisan
+	(p) Laravel 5 Snippets
+	(q) Laravel Helper Completion
+	(r) Laravel Colour Scheme
+	(s) JSHint
+	(t) AutoFileName
+	(u) Terminal
+	(v) Alignment
+	(w) A File Icon
+	(x) Centurion
